@@ -28,8 +28,8 @@ export default {
                     { value: "personal", title: "Personal"},
                     { value: "client", title: "Client"},
                     { value: "school", title: "School"},
-                ]
-            }
+                ],
+            },
         },
         {
             name: "link",
@@ -45,7 +45,7 @@ export default {
             ],
             options: {
                 layout: "tags",
-            }
-        }
-    ]
-}
+            },
+        },
+    ],
+};
